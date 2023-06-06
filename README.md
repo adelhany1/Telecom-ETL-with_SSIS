@@ -12,7 +12,9 @@ _The idea for this project is inspired by a series on Garage Education, in which
 
 ## Final Output of Control Flow and Data Flow Diagrams
 
+![Screenshot](control flow.png)
 
+![Screenshot](Data flow.png)
 
 
 ### You can see all the requirements in this link:
