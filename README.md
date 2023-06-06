@@ -1,4 +1,4 @@
-# Telecom-CaseStudy-ETL-with_SSIS
+# Telecom-ETL-with_SSIS
 This project uses fake data related to the field of communication (such as IMSI / IMEI / TAC / SNR).
 
 _The idea for this project is inspired by a series on Garage Education, in which Eng. Mostafa Alaa shows the process of building an ETL project using Scala._
