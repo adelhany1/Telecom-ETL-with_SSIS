@@ -24,7 +24,3 @@ _Data Flow:_
 The Data Flow task encapsulates the data flow engine that moves data between sources and destinations, and lets the user transform, clean, and modify data as it is moved. Addition of a Data Flow task to a package control flow makes it possible for the package to extract, transform, and load data.
 
 ![alt text](https://github.com/adelhany1/Telecom-ETL-with_SSIS/blob/main/Data%20flow.PNG)
-
-
-### Garage Education playlist on youtube:
-- https://www.youtube.com/watch?v=xQ4f1FwsMbI&list=PLxNoJq6k39G_R3AA108CLE8w6n_CCCmDf
