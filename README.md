@@ -12,12 +12,10 @@ _The idea for this project is inspired by a series on Garage Education, in which
 
 ## Final Output of Control Flow and Data Flow Diagrams
 
-Control Flow:
-
+Control Flow:<br />
 ![alt text]([http://url/to/img.png](https://github.com/adelhany1/Telecom-ETL-with_SSIS/blob/main/control%20flow.PNG))
 
-Data Flow:
-
+Data Flow:<br />
 ![alt text]([http://url/to/img.png](https://github.com/adelhany1/Telecom-ETL-with_SSIS/blob/main/Data%20flow.PNG))
 
 
