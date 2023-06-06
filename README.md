@@ -12,15 +12,17 @@ _The idea for this project is inspired by a series on Garage Education, in which
 
 ## Final Output of Control Flow and Data Flow Diagrams
 
-Control Flow:
+_Control Flow:
+A control flow is a graphical model that sequences data flows and mining flows, integrates external commands, programs, and stored procedures, and provides conditional processing logic for a warehousing application.
+
+ 
 ![alt text](https://github.com/adelhany1/Telecom-ETL-with_SSIS/blob/main/control%20flow.PNG)
 
-Data Flow:
+_Data Flow:
+The Data Flow task encapsulates the data flow engine that moves data between sources and destinations, and lets the user transform, clean, and modify data as it is moved. Addition of a Data Flow task to a package control flow makes it possible for the package to extract, transform, and load data.
+
 ![alt text](https://github.com/adelhany1/Telecom-ETL-with_SSIS/blob/main/Data%20flow.PNG)
 
-
-### You can see all the requirements in this link:
-- https://docs.google.com/document/d/1CsG6QS6Hh-T6x-luJoGlx2eJq6CXvfbwKB7977bjc8o/edit#
 
 ### Garage Education playlist on youtube:
 - https://www.youtube.com/watch?v=xQ4f1FwsMbI&list=PLxNoJq6k39G_R3AA108CLE8w6n_CCCmDf
